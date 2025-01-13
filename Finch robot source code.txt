@@ -1,0 +1,83 @@
+public class finch {
+ // The Finch robot will start
+public static void main(String args[]){
+    System.out.println("Finch Robot");
+}
+private int Watchout;
+// The Finch robot will say watchout by backing up.
+public void Watchout (String n) {
+	
+}
+private int motion;
+//The Finch robot will move forward.
+public void motion (String n) {
+	
+}
+
+	int left = 50;
+	int right = 50;
+	
+
+private int control;
+// The Finch robot will wait one second.
+public void control (String n) {
+	
+}
+
+	int wait = 1 second; 
+			
+
+private int sound;
+//The Finch Robot will turn while bumper is Green.
+public void sound (String n) {
+	
+}
+
+	int Red = 50;
+	int Green = 0;
+	int Blue = 0;
+	
+	private int motion1;
+// The finch robot will turn.
+	public void motion1 (String n) {
+		
+	}
+
+		int left2 = -50;
+		int right2 = 0;
+		
+		private int control1;
+
+		public void control1 (String n) {
+			
+		}
+// The Finch robot will wait 3 senconds.
+			int wait1 = 3 seconds;
+			
+		private int sound1;
+
+		public void sound1 (String n) {				
+// The finch robot will back up while bumper is red			}
+
+				int Red1 = 0; 
+				int Green1 = 50;
+				int Blue1 = 0;
+// The finch robot will stop.				
+ System.out.println("Stop Finch"); {
+	 
+ }
+				
+ 
+
+
+			    
+			
+					
+		 
+	
+	
+	
+	
+
+
+
